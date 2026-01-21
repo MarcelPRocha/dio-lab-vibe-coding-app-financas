@@ -134,5 +134,5 @@ Um resumo do conceito do seu app;
 
 O App Save My Dream foi criado para ajudar as pessoas a conseguirem guardar seu dinheiro e realizar os seus sonhos, facilitando com metas, fácil de entender e usar, serve para todas as idades.
 
-Uma breve reflexão sobre o que aprendeu no processo.
-Este processo me ajudou a ver a forma de conversas com as ferramentas e tirando um medo que muitas pessoas deve mter, depois que você compreende fica facil e objetivo fazendo o impossivel virar possivel.
+Uma breve reflexão sobre o que aprendi no processo.
+Este processo me ajudou a ver a forma de conversas com as ferramentas e tirando um medo que muitas pessoas devem ter, depois que você compreende, fica fácil e objetivo fazendo o impossível virar possível.
